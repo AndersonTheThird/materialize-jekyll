@@ -1,4 +1,5 @@
 # Site settings
+remote_theme: victorpre/materialize-jekyll
 title: Your blog title
 name: Your name
 description: Your blog description
